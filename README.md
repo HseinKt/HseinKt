@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hsein Kteish</h1>
-    <h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
     <p>I am a programmer graduated from Lebanon University.
         Strong programming skills with good English
         language, and with hard attempts to solve
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
         learning new technologies like AI, Machine learning,
         and Big Data.</p>
 
-    <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
