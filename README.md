@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Hsein Kteish</h1>
 <h3 align="center">Software Engineer</h3>
-<p>I am a programmer graduated from Lebanon University.
+<p>I am a programmer graduated from Lebanese university.
         Strong programming skills with good English
         language, and with hard attempts to solve
         programming and computer problems. Keen to
