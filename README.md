@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Hsein Kteish</h1>
 <h3 align="center">Software Engineer</h3>
-<p>I am a programmer graduated from Lebanese university.
-        Strong programming skills with good English
-        language, and with hard attempts to solve
-        programming and computer problems. Keen to
-        pursue a career in web development and focus on
-        learning new technologies like AI, Machine learning,
-        and Big Data.</p>
+<p>A Front-End Developer is passionate about building interactive and user-friendly web applications. Proficient in React.js, JavaScript, and UI/UX design, with experience in developing scalable solutions. Additionally, skilled in Laravel (PHP) for backend development, allowing me to build full-stack applications and integrate seamless APIs. Eager to contribute to innovative projects and enhance user experiences.</p>
 - 🔭 I’m currently working on **Web development**
 
 <h3 align="left">Connect with me:</h3>
